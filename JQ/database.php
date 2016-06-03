@@ -1,9 +1,9 @@
 <?php
 
-    $servername = "mysql.exunclan.com";
-    $username = "exunclan";
-    $password = "tac!oxte";
-    $database = "exunclan_wp";
+    $servername = "localhost"; //Server Name
+    $username = "root"; //User Name
+    $password = "";
+    $database = ""; //Database Name
     $dbport = 3306;
 
     $db = new mysqli($servername, $username, $password, $database, $dbport);
