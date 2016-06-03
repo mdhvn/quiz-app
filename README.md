@@ -1,4 +1,4 @@
-# Exun 2015 Quiz Prelims
+# Quiz Prelims
 
 Quiz conduction app, built for and used successfully at <a href="http://www.exunclan.com" target="_blank">Exun 2015</a> - to help conduct <em>paper-less</em> preliminary rounds of the Junior and Senior Quiz events. 
 <br>Includes : 
